@@ -53,13 +53,21 @@ footer{
 	text-indent: 0;
 }
 
+q{
+	font-style: italic;
+}
+
 #dedication,
 #modeste-mignon {
 	margin-top: 20vh;
 }
 
+#dedication header {
+	font-style: italic;
+}
+
 #modeste-mignon blockquote:first-of-type footer {
-	margin-left: 50%;
+	margin-left: 66%;
 	text-align: initial;
 }
 
@@ -80,6 +88,4 @@ footer{
 #modeste-mignon blockquote:nth-of-type(2) p {
 	text-indent: 0;
 }
-
-
 /* end of custom */
