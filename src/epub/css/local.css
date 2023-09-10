@@ -33,8 +33,8 @@ footer{
 
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:verse"] p > span + br{
@@ -58,34 +58,34 @@ q{
 }
 
 #dedication,
-#modeste-mignon {
+#modeste-mignon{
 	margin-top: 20vh;
 }
 
-#dedication header {
+#dedication header{
 	font-style: italic;
 }
 
-#modeste-mignon blockquote:first-of-type footer {
+#modeste-mignon blockquote:first-of-type footer{
 	margin-left: 66%;
 	text-align: initial;
 }
 
-#modeste-mignon blockquote:first-of-type footer p {
+#modeste-mignon blockquote:first-of-type footer p{
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-#modeste-mignon blockquote:nth-of-type(2) {
+#modeste-mignon blockquote:nth-of-type(2){
 	font-variant: all-small-caps;
 	text-align: center;
 }
 
-#modeste-mignon blockquote:nth-of-type(2) b {
+#modeste-mignon blockquote:nth-of-type(2) b{
 	font-size: 1.15em;
 }
 
-#modeste-mignon blockquote:nth-of-type(2) p {
+#modeste-mignon blockquote:nth-of-type(2) p{
 	text-indent: 0;
 }
 /* end of custom */
