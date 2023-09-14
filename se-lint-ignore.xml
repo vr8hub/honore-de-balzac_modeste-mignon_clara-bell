@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="illustration-1.svg">
+		<ignore>
+			<code>f-018</code>
+			<reason>The illustration is an SVG with dimensions that will not fit with the limit.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
